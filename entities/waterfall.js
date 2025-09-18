@@ -1,5 +1,3 @@
-
-```javascript
 import * as THREE from 'three';
 
 const waterMat = new THREE.MeshLambertMaterial({ color: 0x1e90ff, transparent: true, opacity: 0.8 });
